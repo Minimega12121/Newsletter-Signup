@@ -1,6 +1,6 @@
 This is a Newsletter Signup based on API valled from https://mailchimp.com/  <Br>
 <h1>Running the server locally</h1>
-![Screenshot 2024-03-14 025831](https://github.com/Minimega12121/Newsletter-Signup/blob/main/Pictures/Screenshot 2024-03-14 025831.png)  <Br>
+![Screenshot 2024-03-14 025831]([https://github.com/Minimega12121/Newsletter-Signup/blob/main/Pictures/Screenshot 2024-03-14 025831.png](https://github.com/Minimega12121/Newsletter-Signup/blob/main/Pictures/Screenshot%202024-03-14%20025810.png?raw=true))  <Br>
 <h1>Filling in the details</h1>
 ![Screenshot 2024-03-14 025810](Pictures/Screenshot 2024-03-14 025810.png)  <Br>
 <h1>It's a success and the information send to mailchimp server</h1>
