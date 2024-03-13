@@ -1,4 +1,4 @@
-This is a Newsletter Signup based on API valled from https://mailchimp.com/  <Br>
+This is a Newsletter Signup based on API called from https://mailchimp.com/ using Nodejs <Br>
 <h1>Running the server locally</h1>
 <img src="https://github.com/Minimega12121/Newsletter-Signup/blob/main/Pictures/connection.png?raw=true">  <Br>
 <h1>Filling in the details</h1>
